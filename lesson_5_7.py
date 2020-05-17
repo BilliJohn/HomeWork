@@ -1,4 +1,4 @@
-# анализ компаний
+# анализ компаний *
 import json
 
 with open('text_5_7.txt', 'r', encoding='utf-8') as my_f:
