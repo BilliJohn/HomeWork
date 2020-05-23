@@ -1,3 +1,4 @@
+
 class Stationery:
     title = 'STATIONERY'
 

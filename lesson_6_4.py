@@ -1,5 +1,3 @@
-import random
-
 
 class Car:
     speed = 0
