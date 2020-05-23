@@ -1,4 +1,4 @@
-#  Обработка чисел
+#  Обработка чисел *
 import random
 from functools import reduce
 

@@ -1,5 +1,4 @@
-# считаем учебные часы
-from functools import reduce
+# считаем учебные часы *
 
 
 def study_hour(_x=''):

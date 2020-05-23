@@ -1,4 +1,4 @@
-#  Подсчет строк, букв
+#  Подсчет строк, букв *
 
 with open('text_5_2.txt', 'r', encoding='utf-8') as my_f:
     input_string = my_f.readlines()
